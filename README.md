@@ -1,1 +1,1 @@
-# Kultra_Stores-Inventory
+# kultra-mega-stores-inventory
