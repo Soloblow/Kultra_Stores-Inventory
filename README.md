@@ -204,6 +204,6 @@ This project offers insights for:
 
 ---
 
-📫 Contact
+📫 Contact  
 For questions or collaborations, reach out via Email[solomoncelestine2000@gmail.com] or connect on LinkedIn[Solomon Celestine].
 
